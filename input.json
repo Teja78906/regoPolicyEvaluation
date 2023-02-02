@@ -1,0 +1,9 @@
+{
+    "employee_name":"Teja",
+    "employee_password":"pass1234",
+    "employee_hasAccess" : true,
+    "employee_age" : 26,
+    "employee_citizenship" : "India",
+    "employee_hasBadReport": false
+     
+}
